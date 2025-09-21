@@ -1,0 +1,62 @@
+[
+  {
+    "id": "local-1758298162987-349708705",
+    "fileName": "1758298162972.pdf",
+    "originalName": "sample_legal_document.pdf",
+    "fileType": "application/pdf",
+    "fileSize": 4025,
+    "filePath": "uploads\\1758298162972.pdf",
+    "status": "uploaded",
+    "uploadedAt": "2025-09-19T16:09:22.985Z"
+  },
+  {
+    "id": "local-1758298670708-65741513",
+    "fileName": "1758298670700.pdf",
+    "originalName": "sample_legal_document.pdf",
+    "fileType": "application/pdf",
+    "fileSize": 4025,
+    "filePath": "uploads\\1758298670700.pdf",
+    "status": "uploaded",
+    "uploadedAt": "2025-09-19T16:17:50.706Z"
+  },
+  {
+    "id": "local-1758298924241-771456148",
+    "fileName": "1758298924227.pdf",
+    "originalName": "sample_legal_document.pdf",
+    "fileType": "application/pdf",
+    "fileSize": 4025,
+    "filePath": "uploads\\1758298924227.pdf",
+    "status": "uploaded",
+    "uploadedAt": "2025-09-19T16:22:04.239Z"
+  },
+  {
+    "id": "local-1758299108008-268552044",
+    "fileName": "1758299108002.pdf",
+    "originalName": "sample_legal_document.pdf",
+    "fileType": "application/pdf",
+    "fileSize": 4025,
+    "filePath": "uploads\\1758299108002.pdf",
+    "status": "uploaded",
+    "uploadedAt": "2025-09-19T16:25:08.007Z"
+  },
+  {
+    "id": "local-1758304325459-310801362",
+    "fileName": "1758304325430.pdf",
+    "originalName": "sample_legal_document.pdf",
+    "fileType": "application/pdf",
+    "fileSize": 4025,
+    "filePath": "uploads\\1758304325430.pdf",
+    "status": "uploaded",
+    "uploadedAt": "2025-09-19T17:52:05.458Z"
+  },
+  {
+    "id": "local-1758306370236-630605419",
+    "fileName": "1758306370215.pdf",
+    "originalName": "sample_legal_document.pdf",
+    "fileType": "application/pdf",
+    "fileSize": 4025,
+    "filePath": "uploads\\1758306370215.pdf",
+    "status": "uploaded",
+    "uploadedAt": "2025-09-19T18:26:10.235Z"
+  }
+]
